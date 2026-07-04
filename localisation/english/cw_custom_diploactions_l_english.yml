@@ -1,0 +1,14 @@
+﻿l_english:
+ ### EMBARGO DIPLOMATIC ACTIONS ACTIONS ###
+ CW_EMBARGO_TITLE:0 "£embargo_texticon£ Ambargo Uygula"
+ CW_EMBARGO_ACTION_DESC:0 "Bu ülkeye ambargo uygula. Bu, onların bizden kaynak satın almasını engelleyecektir.\n\nBu, onlar da bize ambargo uygulamadığı sürece bizim onlardan kaynak satın almamızı engellemez.\n\n§YNot:§! §YKapalı Ekonomi§! ticaret yasasına sahip ülkelere bu seçeneği uygulayamazsınız, çünkü ambargonun onlar üzerinde herhangi bir etkisi olmayacaktır." 
+ CW_EMBARGO_LOC:0 "§Y[From.Getname]?§! ülkesine\n\nambargo uygulamak istiyor musunuz?\n\nBu, onların bizden kaynak satın almasını engelleyecektir.\nBuna karşılık onlar da bize ambargo uygulayarak misilleme yapabilir."
+ CW_EMBARGO_INITIATED_TITLE:0 "[ROOT.GetAdjective] Ambargosu"
+ CW_EMBARGO_INITIATED_DESC:0 "§Y[ROOT.GetName]§!\n\nÜlkemize ambargo uygulama kararı aldı.\n\nBunun sonucunda artık onlardan kaynak satın alamayacağız, ancak biz de onlara ambargo uygulamadığımız sürece onlar bizden kaynak satın almaya devam edebilirler."
+ CW_CANCEL_EMBARGO_TITLE:0 "£unembargo_texticon£ Ambargoyu Kaldır"
+ CW_CANCEL_EMBARGO_ACTION_DESC:0 "Bu ülkeye uyguladığımız ambargoyu kaldır. Böylece yeniden bizden kaynak satın alarak ticaret yapabilecekler."
+ CW_CANCEL_EMBARGO_LOC:0 "§Y[From.Getname]?§! ülkesine uygulanan\n\nambargoyu kaldırmak istiyor musunuz?\n\nBu, onların bizimle yeniden serbestçe ticaret yapmasına izin verecektir.[FROM.UNSC_SANCTIONS_WARNING]"
+ CW_CANCEL_EMBARGO_INITIATED_TITLE:0 "[ROOT.GetAdjective] Ambargosu Kaldırıldı"
+ CW_CANCEL_EMBARGO_INITIATED_DESC:0 "§Y[ROOT.GetName]§!\n\nBize karşı uyguladığı ekonomik ambargoyu kaldırma kararı aldı.\n\nBu, ilişkilerimizi iyileştirecek ve onlardan yeniden kaynak satın almamıza olanak sağlayacaktır.[CW_CHECK_COUNTER_EMBARGO]"
+ CW_WE_ARE_EMBARGO_THEM:0 "\n\n§RNot:§! Bu, bizim şu anda onlara uyguladığımız ambargoyu otomatik olarak kaldırmayacaktır!"
+ CW_CHECK_IS_EMBARGOED_BY_US:0 "Tarafımızdan ambargo uygulanıyor."

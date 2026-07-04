@@ -1,0 +1,10 @@
+﻿l_english:
+ PAY_CIV_FACTORY_TITLE:0 "Sivil Fabrika Gönder"
+ PAY_CIV_FACTORY_ACTION_DESC:0 "Hedef ülkeye bir sivil fabrika gönder."
+ pay_civ_factory_send_text:0 "Bu ülkeye bir sivil fabrika göndermek istediğinizden emin misiniz?"
+ pay_civ_get_message:0 "[FROM.GetNameDEF] bize bir sivil fabrika gönderdi."
+ pay_civ_get_title:0 "Sivil Fabrika Alındı"
+ a:0 "a"
+ a:0 "a"
+ a:0 "a"
+ a:0 "a"

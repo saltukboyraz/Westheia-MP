@@ -1,0 +1,6 @@
+﻿l_english:
+ ### EMBARGO OPINION MODIFIERS ###
+ cw_embargo_trade:0 "Bize Ambargo Uyguluyor"
+ cw_embargo_relations_target:0 "Bize Ambargo Uyguluyor"
+ cw_embargo_relations_initiator:0 "Ambargo Uyguluyoruz"
+ cw_embargo_lifter:0 "Gerçi Çekilmiş Ambargo"

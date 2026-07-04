@@ -1,0 +1,7 @@
+﻿l_english:
+ CW_THEY_EMBARGO_TT:0 "[THIS.GetAdjective] Ambargolarını Göster"
+ CW_THEY_EMBARGO_TTL:0 "[THIS.GetNameDef] tarafından ambargo uygulanan ülkeleri görmek için tıklayın."
+ CW_THEY_EMBARGO_AGAINST_TT:0 "[THIS.GetNameDef] ülkesine uygulanan ambargoları göster."
+ CW_THEY_EMBARGO_AGAINST_TTL:0 "[THIS.GetNameDef] ülkesine aktif ambargo uygulayan ülkeleri görmek için tıklayın."
+ CW_EMBARGO_AGAINST_US:0 "[THIS.GetNameDef] Ülkesine Uygulanan Ambargolar"
+ CW_OUR_EMBARGOS:0 "[THIS.GetAdjective] Ambargosu"

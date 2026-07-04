@@ -1,0 +1,463 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_ideology_EZO_neutrality_group"
+		texturefile = "gfx/interface/ideologies/EZO.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_EZO_fascism_group"
+		texturefile = "gfx/interface/ideologies/EZO.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_EZO_communism_group"
+		texturefile = "gfx/interface/ideologies/EZO.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_EZO_democratic_group"
+		texturefile = "gfx/interface/ideologies/EZO.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_OKN_neutrality_group"
+		texturefile = "gfx/interface/ideologies/OKN.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_OKN_fascism_group"
+		texturefile = "gfx/interface/ideologies/OKN.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_OKN_communism_group"
+		texturefile = "gfx/interface/ideologies/OKN.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_OKN_democratic_group"
+		texturefile = "gfx/interface/ideologies/OKN.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_ANU_neutrality_group"
+		texturefile = "gfx/interface/ideologies/ANU.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_ANU_fascism_group"
+		texturefile = "gfx/interface/ideologies/ANU.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_ANU_communism_group"
+		texturefile = "gfx/interface/ideologies/ANU.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_ANU_democratic_group"
+		texturefile = "gfx/interface/ideologies/ANU.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_PLU_neutrality_group"
+		texturefile = "gfx/interface/ideologies/PLU.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_PLU_fascism_group"
+		texturefile = "gfx/interface/ideologies/PLU.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_PLU_communism_group"
+		texturefile = "gfx/interface/ideologies/PLU.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_PLU_democratic_group"
+		texturefile = "gfx/interface/ideologies/PLU.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_FOR_neutrality_group"
+		texturefile = "gfx/interface/ideologies/FOR.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_FOR_fascism_group"
+		texturefile = "gfx/interface/ideologies/FOR.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_FOR_communism_group"
+		texturefile = "gfx/interface/ideologies/FOR.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_FOR_democratic_group"
+		texturefile = "gfx/interface/ideologies/FOR.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_TML_neutrality_group"
+		texturefile = "gfx/interface/ideologies/TML.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_TML_fascism_group"
+		texturefile = "gfx/interface/ideologies/TML.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_TML_communism_group"
+		texturefile = "gfx/interface/ideologies/TML.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_TML_democratic_group"
+		texturefile = "gfx/interface/ideologies/TML.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_CHM_neutrality_group"
+		texturefile = "gfx/interface/ideologies/CHM.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_CHM_fascism_group"
+		texturefile = "gfx/interface/ideologies/CHM.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_CHM_communism_group"
+		texturefile = "gfx/interface/ideologies/CHM.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_CHM_democratic_group"
+		texturefile = "gfx/interface/ideologies/CHM.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_SNG_neutrality_group"
+		texturefile = "gfx/interface/ideologies/SNG.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_SNG_fascism_group"
+		texturefile = "gfx/interface/ideologies/SNG.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_SNG_communism_group"
+		texturefile = "gfx/interface/ideologies/SNG_communism.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_SNG_democratic_group"
+		texturefile = "gfx/interface/ideologies/SNG.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_SAR_neutrality_group"
+		texturefile = "gfx/interface/ideologies/SAR.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_SAR_fascism_group"
+		texturefile = "gfx/interface/ideologies/SAR.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_SAR_communism_group"
+		texturefile = "gfx/interface/ideologies/SAR_communism.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_SAR_democratic_group"
+		texturefile = "gfx/interface/ideologies/SAR.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_SAB_neutrality_group"
+		texturefile = "gfx/interface/ideologies/SAB.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_SAB_fascism_group"
+		texturefile = "gfx/interface/ideologies/SAB.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_SAB_communism_group"
+		texturefile = "gfx/interface/ideologies/SAB.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_SAB_democratic_group"
+		texturefile = "gfx/interface/ideologies/SAB.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_BRN_neutrality_group"
+		texturefile = "gfx/interface/ideologies/BRN.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_BRN_fascism_group"
+		texturefile = "gfx/interface/ideologies/BRN.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_BRN_communism_group"
+		texturefile = "gfx/interface/ideologies/BRN_communism.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_BRN_democratic_group"
+		texturefile = "gfx/interface/ideologies/BRN_communism.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_WPG_neutrality_group"
+		texturefile = "gfx/interface/ideologies/WPG.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_WPG_fascism_group"
+		texturefile = "gfx/interface/ideologies/WPG.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_WPG_communism_group"
+		texturefile = "gfx/interface/ideologies/WPG.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_WPG_democratic_group"
+		texturefile = "gfx/interface/ideologies/WPG.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_KUM_neutrality_group"
+		texturefile = "gfx/interface/ideologies/KUM.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_KUM_fascism_group"
+		texturefile = "gfx/interface/ideologies/KUM.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_KUM_communism_group"
+		texturefile = "gfx/interface/ideologies/KUM.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_KUM_democratic_group"
+		texturefile = "gfx/interface/ideologies/KUM.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_GSM_neutrality_group"
+		texturefile = "gfx/interface/ideologies/XSM_fascism.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_GSM_fascism_group"
+		texturefile = "gfx/interface/ideologies/XSM_fascism.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_GSM_communism_group"
+		texturefile = "gfx/interface/ideologies/PRC_communism.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_GSM_democratic_group"
+		texturefile = "gfx/interface/ideologies/CHI_democratic.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_GDC_neutrality_group"
+		texturefile = "gfx/interface/ideologies/CHI_neutrality.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_GDC_fascism_group"
+		texturefile = "gfx/interface/ideologies/CHI_fascism.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_GDC_communism_group"
+		texturefile = "gfx/interface/ideologies/PRC_communism.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_GDC_democratic_group"
+		texturefile = "gfx/interface/ideologies/CHI_democratic.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_KHM_neutrality_group"
+		texturefile = "gfx/interface/ideologies/XSM_fascism.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_KHM_fascism_group"
+		texturefile = "gfx/interface/ideologies/XSM_fascism.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_KHM_communism_group"
+		texturefile = "gfx/interface/ideologies/PRC_communism.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_KHM_democratic_group"
+		texturefile = "gfx/interface/ideologies/CHI_democratic.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_NXM_neutrality_group"
+		texturefile = "gfx/interface/ideologies/XSM_fascism.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_NXM_fascism_group"
+		texturefile = "gfx/interface/ideologies/XSM_fascism.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_NXM_communism_group"
+		texturefile = "gfx/interface/ideologies/PRC_communism.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_NXM_democratic_group"
+		texturefile = "gfx/interface/ideologies/CHI_democratic.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_SND_neutrality_group"
+		texturefile = "gfx/interface/ideologies/CHI_neutrality.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_SND_fascism_group"
+		texturefile = "gfx/interface/ideologies/CHI_fascism.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_SND_communism_group"
+		texturefile = "gfx/interface/ideologies/PRC_communism.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_SND_democratic_group"
+		texturefile = "gfx/interface/ideologies/CHI_democratic.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_SIC_neutrality_group"
+		texturefile = "gfx/interface/ideologies/CHI_neutrality.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_SIC_fascism_group"
+		texturefile = "gfx/interface/ideologies/CHI_fascism.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_SIC_communism_group"
+		texturefile = "gfx/interface/ideologies/PRC_communism.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_SIC_democratic_group"
+		texturefile = "gfx/interface/ideologies/CHI_democratic.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_XIC_neutrality_group"
+		texturefile = "gfx/interface/ideologies/CHI_neutrality.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_XIC_fascism_group"
+		texturefile = "gfx/interface/ideologies/CHI_fascism.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_XIC_communism_group"
+		texturefile = "gfx/interface/ideologies/PRC_communism.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_XIC_democratic_group"
+		texturefile = "gfx/interface/ideologies/CHI_democratic.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_RNG_neutrality_group"
+		texturefile = "gfx/interface/ideologies/CHI_fascism.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_RNG_fascism_group"
+		texturefile = "gfx/interface/ideologies/CHI_fascism.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_RNG_communism_group"
+		texturefile = "gfx/interface/ideologies/PRC_communism.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_RNG_democratic_group"
+		texturefile = "gfx/interface/ideologies/CHI_fascism.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_PSR_neutrality_group"
+		texturefile = "gfx/interface/ideologies/PSR.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_PSR_fascism_group"
+		texturefile = "gfx/interface/ideologies/PSR.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_PSR_communism_group"
+		texturefile = "gfx/interface/ideologies/PSR_communism.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_PSR_democratic_group"
+		texturefile = "gfx/interface/ideologies/PSR.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_HBC_neutrality_group"
+		texturefile = "gfx/interface/ideologies/CHI_neutrality.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_HBC_fascism_group"
+		texturefile = "gfx/interface/ideologies/CHI_fascism.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_HBC_communism_group"
+		texturefile = "gfx/interface/ideologies/PRC_communism.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_HBC_democratic_group"
+		texturefile = "gfx/interface/ideologies/CHI_democratic.dds"
+	}
+
+}

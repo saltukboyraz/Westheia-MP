@@ -1,0 +1,10 @@
+﻿l_english:
+ PAY_DOCKYARD_TITLE:0 "Tersane Gönder"
+ PAY_DOCKYARD_ACTION_DESC:0 "Hedef ülkeye bir tersane gönder."
+ pay_dockyard_send_text:0 "Bu ülkeye bir tersane göndermek istediğinizden emin misiniz?"
+ pay_dock_get_message:0 "[FROM.GetNameDEF] bize bir tersane gönderdi."
+ pay_dock_get_title:0 "Tersane Alındı"
+ a:0 "a"
+ a:0 "a"
+ a:0 "a"
+ a:0 "a"

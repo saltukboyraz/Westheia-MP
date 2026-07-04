@@ -1,0 +1,21 @@
+on_actions = {
+
+    on_startup = {
+        effect = {
+            every_country = {
+                country_event = {
+                    id = globalideas.1
+                }
+            }
+        }
+    }
+
+    on_new_country = {
+        effect = {
+            country_event = {
+                id = globalideas.1
+            }
+        }
+    }
+
+}

@@ -1,0 +1,10 @@
+﻿l_english:
+ PAY_MIL_FACTORY_TITLE:0 "Askerî Fabrika Gönder"
+ PAY_MIL_FACTORY_ACTION_DESC:0 "Hedef ülkeye bir askerî fabrika gönder."
+ pay_mil_factory_send_text:0 "Bu ülkeye bir askerî fabrika göndermek istediğinizden emin misiniz?"
+ pay_mil_get_message:0 "[FROM.GetNameDEF] bize bir askerî fabrika gönderdi."
+ pay_mil_get_title:0 "Askerî Fabrika Alındı"
+ a:0 "a"
+ a:0 "a"
+ a:0 "a"
+ a:0 "a"

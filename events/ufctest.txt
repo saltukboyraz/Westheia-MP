@@ -1,0 +1,24 @@
+add_namespace = ufctest
+
+country_event = {
+    id = ufctest.1
+    is_triggered_only = yes
+
+    immediate = {
+        ROOT = {
+
+        
+        kill_country_leader = yes
+        create_country_leader = {
+            name = RAJ_GOE_the_board_of_directors
+            picture = GFX_portrait_RAJ_the_board_of_directors
+            ideology = rexism
+            traits = {
+                socialite_connections              
+                ruthless_tycoon
+            }
+            expire = "1965.1.1"
+            }
+        }
+    }
+}

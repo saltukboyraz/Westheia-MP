@@ -1,0 +1,1 @@
+NDefines.NGame.GAME_SPEED_SECONDS = { 0.3, 0.2, 0.1, 0.05, 0.0 } -- game speeds for each level. Must be 5 entries with last one 0 for unbound
